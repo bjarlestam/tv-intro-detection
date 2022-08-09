@@ -14,5 +14,5 @@ conda activate tv-intro-detection
 pip install -r requirements.txt
 ```
 ### Usage
-To manually scan a directory containing at least 2 video files, debug logging enabled, logging debug output to file enabled, delete fingerprint data afterward
+To scan a directory containing at least 2 video files, debug logging enabled, logging debug output to file enabled, delete fingerprint data afterward
 `decode.py -i /path/to/tv/season -d -l -c`
